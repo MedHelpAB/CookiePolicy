@@ -25,7 +25,3 @@ Det er en holdbar informasjonskapsel som brukes til å følge med på om du har 
 Ved å stille inn nettleseren din kan du forhindre at informasjonskapsler lagres på datamaskinen din når du besøker våre nettsteder, og du kan også slette informasjonskapsler som allerede eksisterer. Hvis du velger å blokkere informasjonskapsler i nettleseren din, kan funksjonaliteten til nettstedene svekkes på forskjellige måter. brukes til funksjonalitet og brukeropplevelse.
 
 MedHelp mener at ved å ikke blokkere informasjonskapsler i nettleseren din, har du samtykket til informasjonskapslene som MedHelp bruker på sine nettsteder.
-
-# Cookie Banner
-
-Dette nettstedet bruker informasjonskapsler for å forbedre opplevelsen av våre tjenester, så vel som for måle- og analyseformål. Ved å bruke nettstedet vårt og våre tjenester, samtykker du til bruk av informasjonskapsler på den måten som er beskrevet i vår cookie-policy.

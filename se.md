@@ -24,7 +24,3 @@ Det är en varaktig cookie som används för att hålla reda på om du har klick
 Genom inställningar i din webbläsare kan du undvika att cookies sparas i din dator när du besöker våra webbplatser och du kan även ta bort cookies som redan finns. Om du väljer att blockera cookies i din webbläsare så kan webbplatsernas funktionalitet försämras på olika sätt eftersom cookies bl.a. används för funktionalitet och användarupplevelse.
 
 MedHelp anser att du, genom att inte blockera cookies i din webbläsare, har samtyckt till de cookies som MedHelp använder på sina webbplatser.
-
-# Cookie Banner
-
-Den här webbplatsen använder cookies för att förbättra din upplevelse av våra tjänster, samt i mät och analyssyften. Genom att använda vår webbplats och våra tjänster godkänner du användningen av cookies på det sätt som beskrivs i vår policy för cookies.

@@ -25,7 +25,3 @@ It is a durable cookie used to keep track of whether you have clicked ok on the 
 By setting in your browser you can prevent cookies from being saved on your computer when you visit our websites and you can also delete cookies that already exist. If you choose to block cookies in your browser, the functionality of the websites can be impaired in different ways. used for functionality and user experience.
 
 MedHelp believes that, by not blocking cookies in your browser, you have consented to the cookies that MedHelp uses on its websites.
-
-# Cookie Banner
-
-This site uses cookies to improve your experience of our services, as well as for measurement and analysis purposes. By using our website and our services, you consent to the use of cookies in the manner described in our cookie policy.
