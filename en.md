@@ -1,4 +1,4 @@
-# MedHelp&#39;s use of cookies
+# MedHelp's use of cookies
 
 #### What is a cookie?
 
